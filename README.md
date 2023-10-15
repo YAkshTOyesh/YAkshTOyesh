@@ -1,4 +1,4 @@
-# 🌟 Exploring Boundaries, Weaving Insights: Sharing My Journey 🌟
+## 🌟 Exploring Boundaries, Weaving Insights: Sharing My Journey 🌟
 
 Hello there! I'm Yaksh Toyesh Ujoodha, a passionate explorer who finds joy in connecting the dots across data, experiences, and cultures. My journey is a blend of discovery, analysis, and fostering connections that enrich our world.
 
