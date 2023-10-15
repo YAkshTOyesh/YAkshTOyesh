@@ -18,6 +18,7 @@ Hello there! I'm Yaksh Toyesh Ujoodha, a passionate explorer who finds joy in co
 - 🗣 Proficiency in languages like Mauritian Creole, English, French, and Hindi.
 
 ### 🚀 Journey of Collaboration and Support:
+- 🧠 Advancing material science research with deep learning, fostering teamwork, and effective technical communication at the University of Wisconsin - Madison.
 - 📊 Experience as a Survey and Data Analytics Assistant.
 - 🛠 Data Engineer Intern, turning data into actionable insights.
 - 👥 Guiding peers as a Career Peer Advisor and Teaching Assistant.
