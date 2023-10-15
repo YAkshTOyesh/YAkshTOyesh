@@ -2,7 +2,8 @@
 
 Hello there! I'm Yaksh Toyesh Ujoodha, a passionate explorer who finds joy in connecting the dots across data, experiences, and cultures. My journey is a blend of discovery, analysis, and fostering connections that enrich our world.
 
-- 💻 Interested in Data Science, Data Engineering, Data Analysis, Software Engineering, Time Series, NLP, Automation, Big Data
+### 💡 Interests
+- 💻 Interested in Data Science, Data Engineering, Data Analysis, Software Engineering, Time Series, NLP, Automation, Big Data.
 
 ### 🔍 Bridging Data and Narratives:
 - 📚 Studying Data Science and Computer Science at Beloit College.
