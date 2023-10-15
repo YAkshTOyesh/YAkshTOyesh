@@ -5,6 +5,11 @@ Hello there! I'm Yaksh Toyesh Ujoodha, a passionate explorer who finds joy in co
 ### 💡 Interests
 - 💻 Interested in Data Science, Data Engineering, Data Analysis, Software Engineering, Time Series, NLP, Automation, Big Data.
 
+### 🎯 Hobbies:
+- ✈️ I enjoy traveling.
+- 📖 Reading books, especially in the fantasy genre.
+- ☕ I am a tea person.
+
 ### 🔍 Bridging Data and Narratives:
 - 📚 Studying Data Science and Computer Science at Beloit College.
 - 🔍 Unearthing stories hidden within data, one number at a time.
@@ -22,11 +27,6 @@ Hello there! I'm Yaksh Toyesh Ujoodha, a passionate explorer who finds joy in co
 - 📊 Experience as a Survey and Data Analytics Assistant.
 - 🛠 Data Engineer Intern, turning data into actionable insights.
 - 👥 Guiding peers as a Career Peer Advisor and Teaching Assistant.
-
-### 🎯 Hobbies:
-- ✈️ I enjoy traveling.
-- 📖 Reading books, especially in the fantasy genre.
-- ☕ I am a tea person.
 
 ### 🔗 Let's Connect:
 I invite you to join me on this voyage of discovery. Whether it's about data's stories, the flavors of different cultures, or insights from my experiences, I'm here to share and learn together.
