@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Scientist
 -----------------------
 
-* 🌍  I'm based in Beloit, WI, USA
+* 🌍  I am from Mauritius.
+* 🎓  I'm a senior studying Data Science and Computer Science at Beloit College in Beloit, WI, USA.
 * 🖥️  See my portfolio at [Website](http://yakshtoyesh.github.io/Yaksh_portfolio_website/)
 * ✉️  You can contact me at [yakshujoodha@gmail.com](mailto:yakshujoodha@gmail.com)
 * ⚡  I currently have a 350 Day Streak on Duolingo
