@@ -9,7 +9,7 @@ Aspiring Data Scientist
 * ✉️  You can contact me at [yakshujoodha@gmail.com](mailto:yakshujoodha@gmail.com)
 * ⚡  I currently have a 350 Day Streak on Duolingo
 
-### Skills
+### Technologies and Tools
 
 
 <p align="left">
