@@ -9,7 +9,8 @@ Aspiring Data Scientist
 * ✉️  You can contact me at [yakshujoodha@gmail.com](mailto:yakshujoodha@gmail.com)
 * ⚡  I currently have a 350 Day Streak on Duolingo
 
-### Technologies and Tools
+## Technologies and Tools
+### Data Science
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 ![Static Badge](https://img.shields.io/badge/pandas-red?style=for-the-badge&logo=pandas&logoColor=%23150458&logoSize=auto&color=%23F0EFFF&link=https%3A%2F%2Fpandas.pydata.org%2Fdocs%2F)
 ![Static Badge](https://img.shields.io/badge/numpy-red?style=for-the-badge&logo=numpy&logoColor=blue&logoSize=auto&color=%23E8F0FE&link=https%3A%2F%2Fnumpy.org%2Fdoc%2F)
@@ -17,7 +18,13 @@ Aspiring Data Scientist
 ![Static Badge](https://img.shields.io/badge/jupyter-red?style=for-the-badge&logo=jupyter&logoSize=auto&color=%23F5F5F5&link=https%3A%2F%2Fdocs.jupyter.org%2Fen%2Flatest%2F)
 ![Static Badge](https://img.shields.io/badge/scikit%20learn-red?style=for-the-badge&logo=scikitlearn&logoSize=auto&color=%23E1ECF4)
 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+### Data Engineering
+
+### Software Engineering
+
+### BI Tools
+
+
 
 
 
