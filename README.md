@@ -11,6 +11,8 @@ Aspiring Data Scientist
 
 ### Technologies and Tools
 ![Static Badge](https://img.shields.io/badge/pandas-python-blue?style=for-the-badge&logo=pandas&logoColor=%23150458&logoSize=auto&label=pandas&labelColor=%23D3D3D3&link=https%3A%2F%2Fpandas.pydata.org%2Fdocs%2F)
+![Static Badge](https://img.shields.io/badge/numPy-python-blue?style=for-the-badge&logo=numPy&logoColor=%23013243&logoSize=auto&labelColor=%23D3D3D3&link=https%3A%2F%2Fpandas.pydata.org%2Fdocs%2F)
+
 
 
 ### Socials
