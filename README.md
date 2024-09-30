@@ -10,8 +10,7 @@ Aspiring Data Scientist
 * ⚡  I currently have a 350 Day Streak on Duolingo
 
 ### Technologies and Tools
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>  
-
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 ![Static Badge](https://img.shields.io/badge/pandas-red?style=for-the-badge&logo=pandas&logoColor=%23150458&logoSize=auto&color=%23F0EFFF&link=https%3A%2F%2Fpandas.pydata.org%2Fdocs%2F)
 ![Static Badge](https://img.shields.io/badge/numpy-red?style=for-the-badge&logo=numpy&logoColor=blue&logoSize=auto&color=%23E8F0FE&link=https%3A%2F%2Fnumpy.org%2Fdoc%2F)
 ![Static Badge](https://img.shields.io/badge/pytorch-red?style=for-the-badge&logo=pytorch&logoSize=auto&color=%23FFEBD9&link=https%3A%2F%2Fpytorch.org%2Fdocs%2Fstable%2Findex.html)
