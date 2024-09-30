@@ -25,6 +25,7 @@ Aspiring Data Scientist
 ![Static Badge](https://img.shields.io/badge/ggplot2-red?style=for-the-badge&logoSize=auto&color=%23E1ECF4)
 ![Static Badge](https://img.shields.io/badge/rmarkdown-red?style=for-the-badge&logoSize=auto&color=%23E1ECF4)
 ![Static Badge](https://img.shields.io/badge/rshiny-red?style=for-the-badge&logoSize=auto&color=%23E1ECF4)
+![Static Badge](https://img.shields.io/badge/sql-pale%20green?style=for-the-badge&color=%2398FF98)
 
 
 
