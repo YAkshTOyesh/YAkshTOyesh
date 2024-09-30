@@ -17,7 +17,9 @@ Aspiring Data Scientist
 ![Static Badge](https://img.shields.io/badge/pytorch-red?style=for-the-badge&logo=pytorch&logoSize=auto&color=%23FFEBD9&link=https%3A%2F%2Fpytorch.org%2Fdocs%2Fstable%2Findex.html)
 ![Static Badge](https://img.shields.io/badge/jupyter-red?style=for-the-badge&logo=jupyter&logoSize=auto&color=%23F5F5F5&link=https%3A%2F%2Fdocs.jupyter.org%2Fen%2Flatest%2F)
 ![Static Badge](https://img.shields.io/badge/scikit%20learn-red?style=for-the-badge&logo=scikitlearn&logoSize=auto&color=%23E1ECF4)  
-![Static Badge](https://img.shields.io/badge/google%20collab-orange?style=for-the-badge&logo=googlecolab&logoColor=%23F9AB00&logoSize=auto&color=%23FFFDD0)  
+![Static Badge](https://img.shields.io/badge/google%20collab-orange?style=for-the-badge&logo=googlecolab&logoColor=%23F9AB00&logoSize=auto&color=%23FFFDD0) 
+![Static Badge](https://img.shields.io/badge/linux-gold?style=for-the-badge&logo=linux&logoColor=%23FCC624&logoSize=auto&color=%23001F3F)
+
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 ![Static Badge](https://img.shields.io/badge/dplyr-red?style=for-the-badge&logoSize=auto&color=%23E1ECF4)
@@ -29,6 +31,7 @@ Aspiring Data Scientist
 
 ### Data Engineering
 ![Static Badge](https://img.shields.io/badge/snowflake-orange?style=for-the-badge&logo=snowflake&logoColor=%2329B5E8&logoSize=auto&color=%23B2EBF2)
+![Static Badge](https://img.shields.io/badge/microsoft%20azure-teal?style=for-the-badge&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/prefect-white?style=for-the-badge&logo=prefect&logoColor=%23070E10&logoSize=auto&color=%23D1E8E4)
 ![Static Badge](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=%23003B57&logoSize=auto&color=%23FFFDD0)
 ![Static Badge](https://img.shields.io/badge/selenium-white?style=for-the-badge&logo=selenium&logoColor=%2343B02A&logoSize=auto&color=%23FFED8A)
