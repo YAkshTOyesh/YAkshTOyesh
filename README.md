@@ -47,6 +47,13 @@ Aspiring Data Scientist
 ![Static Badge](https://img.shields.io/badge/Backend-orange?style=for-the-badge&logoSize=auto&color=%234CAF50)
 
 ### BI Tools
+![Static Badge](https://img.shields.io/badge/tableau-pale%20blue?style=for-the-badge&logo=tableau&logoColor=%23E97627&logoSize=auto&color=%23F0F0F0)
+![Static Badge](https://img.shields.io/badge/power%20BI-gold?style=for-the-badge&logoSize=auto&color=%23E5B54A)
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+![Static Badge](https://img.shields.io/badge/slack-gold?style=for-the-badge&logo=slack&logoColor=%234A154B&logoSize=auto&color=%23E8D4E2)
+![Static Badge](https://img.shields.io/badge/trello-gold?style=for-the-badge&logo=trello&logoColor=%230052CC&logoSize=auto&color=%23F9E87E)
+![Static Badge](https://img.shields.io/badge/jira-gold?style=for-the-badge&logo=jira&logoColor=%230052CC&logoSize=auto&color=%23A4C8E1)
+![Static Badge](https://img.shields.io/badge/confluence-gold?style=for-the-badge&logo=confluence&logoColor=%23172B4D&logoSize=auto&color=%23F0F0F0)
 
 ## Socials
 
