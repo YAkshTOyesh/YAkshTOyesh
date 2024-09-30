@@ -32,8 +32,8 @@ Aspiring Data Scientist
 ![Static Badge](https://img.shields.io/badge/Automation%20360-orange?style=for-the-badge&logoSize=auto&color=%23F5B7B1)
 
 ### Software Engineering
-![Static Badge](https://img.shields.io/badge/Frontend-orange?style=for-the-badge&logoSize=auto&color=%2300A1E4)
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+![Static Badge](https://img.shields.io/badge/Frontend-orange?style=for-the-badge&logoSize=auto&color=%2300A1E4)
 ### BI Tools
 
 ## Socials
