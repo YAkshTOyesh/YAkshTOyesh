@@ -15,7 +15,8 @@ Aspiring Data Scientist
 ![Static Badge](https://img.shields.io/badge/pandas-red?style=for-the-badge&logo=pandas&logoColor=%23150458&logoSize=auto&color=%23F0EFFF&link=https%3A%2F%2Fpandas.pydata.org%2Fdocs%2F)
 ![Static Badge](https://img.shields.io/badge/numpy-red?style=for-the-badge&logo=numpy&logoColor=blue&logoSize=auto&color=%23E8F0FE&link=https%3A%2F%2Fnumpy.org%2Fdoc%2F)
 ![Static Badge](https://img.shields.io/badge/pytorch-red?style=for-the-badge&logo=pytorch&logoSize=auto&color=%23FFEBD9&link=https%3A%2F%2Fpytorch.org%2Fdocs%2Fstable%2Findex.html)
-![Static Badge](https://img.shields.io/badge/jupyter-red?style=for-the-badge&logo=jupyter&logoSize=auto&color=%23F5F5F5&link=https%3A%2F%2Fpytorch.org%2Fdocs%2Fstable%2Findex.html)
+![Static Badge](https://img.shields.io/badge/jupyter-red?style=for-the-badge&logo=jupyter&logoSize=auto&color=%23F5F5F5&link=https%3A%2F%2Fdocs.jupyter.org%2Fen%2Flatest%2F)
+
 
 
 
