@@ -18,6 +18,8 @@ Aspiring Data Scientist
 ![Static Badge](https://img.shields.io/badge/jupyter-red?style=for-the-badge&logo=jupyter&logoSize=auto&color=%23F5F5F5&link=https%3A%2F%2Fdocs.jupyter.org%2Fen%2Flatest%2F)
 ![Static Badge](https://img.shields.io/badge/scikit%20learn-red?style=for-the-badge&logo=scikitlearn&logoSize=auto&color=%23E1ECF4)
 
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+
 
 
 
