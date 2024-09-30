@@ -12,7 +12,7 @@ Aspiring Data Scientist
 ### Technologies and Tools
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>  
 
-![Static Badge](https://img.shields.io/badge/pandas-python-blue?style=for-the-badge&logo=pandas&logoColor=%23013243&logoSize=auto&labelColor=%23A8DADC&link=https%3A%2F%2Fpandas.pydata.org%2Fdocs%2F)
+![Static Badge](https://img.shields.io/badge/pandas-python-blue?style=for-the-badge&logo=pandas&logoColor=%23150458&logoSize=auto&labelColor=%23F5F5F5&link=https%3A%2F%2Fpandas.pydata.org%2Fdocs%2F)
 ![Static Badge](https://img.shields.io/badge/numpy-python-blue?style=for-the-badge&logo=numpy&logoColor=%23013243&logoSize=auto&labelColor=%23A8DADC&link=https%3A%2F%2Fnumpy.org%2Fdoc%2F)
 ![Static Badge](https://img.shields.io/badge/pytorch-python-blue?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C&logoSize=auto&labelColor=%23F5F5F5&link=https%3A%2F%2Fpytorch.org%2Fdocs%2Fstable%2Findex.html)
 
