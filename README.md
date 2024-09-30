@@ -18,8 +18,6 @@ Aspiring Data Scientist
 ![Static Badge](https://img.shields.io/badge/jupyter-red?style=for-the-badge&logo=jupyter&logoSize=auto&color=%23F5F5F5&link=https%3A%2F%2Fdocs.jupyter.org%2Fen%2Flatest%2F)
 ![Static Badge](https://img.shields.io/badge/scikit%20learn-red?style=for-the-badge&logo=scikitlearn&logoSize=auto&color=%23E1ECF4)  
 ![Static Badge](https://img.shields.io/badge/google%20collab-orange?style=for-the-badge&logo=googlecolab&logoColor=%23F9AB00&logoSize=auto&color=%23FFFDD0) 
-![Static Badge](https://img.shields.io/badge/linux-gold?style=for-the-badge&logo=linux&logoColor=%23FCC624&logoSize=auto&color=%23001F3F)
-
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 ![Static Badge](https://img.shields.io/badge/dplyr-red?style=for-the-badge&logoSize=auto&color=%23E1ECF4)
@@ -37,6 +35,7 @@ Aspiring Data Scientist
 ![Static Badge](https://img.shields.io/badge/selenium-white?style=for-the-badge&logo=selenium&logoColor=%2343B02A&logoSize=auto&color=%23FFED8A)
 ![Static Badge](https://img.shields.io/badge/Automation%20360-orange?style=for-the-badge&logoSize=auto&color=%23F5B7B1)
 
+
 ### Software Engineering
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -47,7 +46,9 @@ Aspiring Data Scientist
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 ![Static Badge](https://img.shields.io/badge/Backend-orange?style=for-the-badge&logoSize=auto&color=%234CAF50)
+
 
 ### BI Tools
 ![Static Badge](https://img.shields.io/badge/tableau-pale%20blue?style=for-the-badge&logo=tableau&logoColor=%23E97627&logoSize=auto&color=%23F0F0F0)
