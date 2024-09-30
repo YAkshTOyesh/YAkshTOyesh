@@ -28,6 +28,8 @@ Aspiring Data Scientist
 ### Data Engineering
 ![Static Badge](https://img.shields.io/badge/prefect-white?style=for-the-badge&logo=prefect&logoColor=%23070E10&logoSize=auto&color=%23D1E8E4)
 ![Static Badge](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=%23003B57&logoSize=auto&color=%23FFFDD0)
+![Static Badge](https://img.shields.io/badge/selenium-white?style=for-the-badge&logo=selenium&logoColor=%2343B02A&logoSize=auto&color=%23FFED8A)
+
 
 ### Software Engineering
 
