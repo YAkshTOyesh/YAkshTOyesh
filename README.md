@@ -27,7 +27,6 @@ Aspiring Data Scientist
 
 ### Data Engineering
 ![Static Badge](https://img.shields.io/badge/prefect-white?style=for-the-badge&logo=prefect&logoColor=%23070E10&logoSize=auto&color=%23D1E8E4)
-![SQLite](sqlite.svg)
 ### Software Engineering
 
 ### BI Tools
